@@ -27,7 +27,7 @@ npm run dev
 
 Open up [localhost:3000](http://localhost:3000) and start clicking around.
 
-Navigate to 'test' page to check graphql in work.
+Navigate to [localhost:3000/test](http://localhost:3000/test) to check GraphQL in work.
 
 Consult [sapper.svelte.dev](https://sapper.svelte.dev) for help getting started.
 
